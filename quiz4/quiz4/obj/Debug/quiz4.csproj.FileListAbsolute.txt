@@ -1,0 +1,10 @@
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\bin\Debug\quiz4.exe.config
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\bin\Debug\quiz4.exe
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\bin\Debug\quiz4.pdb
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.csprojAssemblyReference.cache
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.Form1.resources
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.Properties.Resources.resources
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.csproj.GenerateResource.cache
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.csproj.CoreCompileInputs.cache
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.exe
+C:\Users\MehmetBurak\source\repos\quiz4\quiz4\obj\Debug\quiz4.pdb
